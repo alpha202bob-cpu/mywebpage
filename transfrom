@@ -1,0 +1,44 @@
+<!DOCTYPE html> <html lang="zh-CN'>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>网站中转页，用来到达更多神奇的地方</title>
+<style>
+        body {
+            background-color: #3BE186;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            color: #000;
+        }
+        
+        .container {
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 36px;
+            margin-bottom: 30px;
+            text-shadow: 1px 1px 1px #2c8631;
+        }
+        
+        a {
+            font-size: 18px;
+            color: #0000EE;
+            text-decoration: underline;
+        }
+        
+        a:hover {                                                                   
+            color: #551A8B;
+        }
+    </style>
+    <body>
+        <img src="车.png"width="300"height="240">
+    </body>                                                                                                               
+</head>                                                          
+
